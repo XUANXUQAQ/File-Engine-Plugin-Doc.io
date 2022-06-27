@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"FileEngine.Example.Plugin","l":"Plugin"},{"p":"FileEngine.Example.Plugin","l":"PluginMain"}];updateSearchResults();
+typeSearchIndex = [{"l":"Event","h":"","u":""},{"l":"Plugin","h":"","u":""},{"l":"PluginMain","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]
